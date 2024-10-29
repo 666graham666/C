@@ -19,12 +19,14 @@ This project implements its own library for processing numerical matrices in the
 This project implements the game "Tetris" in the C programming language.
 
 ## skills
-Structured programming
-C
-Algorithms
-Team work
-Types and data structures
-DB & Data
-Software architecture
+Structured programming;
+C;
+Algorithms;
+Team work;
+Types and data structures;
+DB & Data;
+Software architecture.
+
+projects completed as part of training at school 21
 
 
